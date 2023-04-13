@@ -1,4 +1,4 @@
-<h2 align = 'center'>Sudoku_Solver </h2>
+<h2 align = 'center'>Sudoku Solver </h2>
 
 Solving Sudoku using Backtracking with Inferences - AC3, Naked Pairs and Hidden Pairs. 
 
