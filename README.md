@@ -8,3 +8,7 @@ Inferences are changes made in the domain spcae of unassignbed variables based o
 * AC3 (Arc Consistency) 
 * Naked Pairs Candidate 
 * Hidden Pair Candidate  
+
+<br><br><br>
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
