@@ -508,7 +508,7 @@ def solve_one_puzzle(puzzle_path):
     return (backtracking_guesses, mrv_guesses, ac3_guesses, waterfall1_guesses, waterfall2_guesses)
 
 def solve_all_sudoku():
-    puzzles_folder = "D:\Programming Assignments Files-20230402\Assignment 3\puzzles"
+    puzzles_folder = "puzzles"
     puzzles = os.listdir(puzzles_folder)
     puzzles.sort()
 
